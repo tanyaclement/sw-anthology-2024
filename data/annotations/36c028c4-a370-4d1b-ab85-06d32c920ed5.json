@@ -1,5 +1,4866 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Noises from the rooms: cracks, soft voices"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "7cb59719-650e-4045-a890-4246321a7307"
+    },
+    {
+      "start_time": 9,
+      "end_time": 9,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "More!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "8f27755a-3e28-47bd-a638-6fce9e7d304b"
+    },
+    {
+      "start_time": 10,
+      "end_time": 10,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Moi aussi je pensais que c'était de la poésie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "73b8c7bb-00bf-4771-ae24-96e002f06669"
+    },
+    {
+      "start_time": 14,
+      "end_time": 14,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Acker speaking away from the microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "908a5650-161b-48c4-95d9-5fbaccf4204c"
+    },
+    {
+      "start_time": 14,
+      "end_time": 14,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is Thivai speaking and it's just like of course a female it's not a male woman (inaudible) female (inaudible) female (inaudible)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "f1c0b1e1-63df-4863-b824-08e0080ac6ba"
+    },
+    {
+      "start_time": 21,
+      "end_time": 21,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "You have a very nice . . . you have a very nice diction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "266030aa-e29f-4e31-9f67-942b57264f87"
+    },
+    {
+      "start_time": 22,
+      "end_time": 22,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "In the microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "53dac51b-7845-4ee4-b09f-a2df849d08ca"
+    },
+    {
+      "start_time": 22,
+      "end_time": 22,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "553e610b-2cd2-4649-841d-ba1990b0c888"
+    },
+    {
+      "start_time": 24,
+      "end_time": 24,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "A what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "4264e688-170d-46e9-b2cc-b0db89764563"
+    },
+    {
+      "start_time": 25,
+      "end_time": 25,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "well"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "34a69d31-f943-4861-8df8-d57a252dd226"
+    },
+    {
+      "start_time": 26,
+      "end_time": 26,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Who?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b4f8bf22-6af4-4380-9690-61e9244787b2"
+    },
+    {
+      "start_time": 26,
+      "end_time": 26,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "You have a nice diction!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b45f1dd7-410f-41d5-a3b8-0a10498549dc"
+    },
+    {
+      "start_time": 28,
+      "end_time": 28,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "A nice fiction?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "5e7ae1c5-329b-44b8-84ba-b2a4d5ada3c2"
+    },
+    {
+      "start_time": 29,
+      "end_time": 29,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "You read very well!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "d8cb34b3-097d-4e69-891a-edb492359b93"
+    },
+    {
+      "start_time": 29,
+      "end_time": 29,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "You read well!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "bad1d5e1-baf8-4b06-bc46-ee2742edc91f"
+    },
+    {
+      "start_time": 31,
+      "end_time": 31,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Oh, thank you sir, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "48cc6c1a-2d45-460f-af17-c5bf41a97e66"
+    },
+    {
+      "start_time": 32,
+      "end_time": 32,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laughs and murmurs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "d1c5669f-b420-4aa4-865a-44ef6e9f4fcd"
+    },
+    {
+      "start_time": 34,
+      "end_time": 34,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "All right, this's called 'Male': M.A.L.E."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b515d0a0-5c1c-43f7-87eb-3dbd47ae0ff8"
+    },
+    {
+      "start_time": 37,
+      "end_time": 37,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is Thivai's talking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b329bb94-8789-4467-ab53-496554e96a67"
+    },
+    {
+      "start_time": 38,
+      "end_time": 38,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reading from Empire of the Senseless, Chapter II. \"Raise Us From the Dead,\" (Thivai speaks), Male."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "40abb782-e116-4c75-93ad-9070a16df87a"
+    },
+    {
+      "start_time": 40,
+      "end_time": 40,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "As long as I can remember . . ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "020a0d68-cb1e-4570-81fc-3cd2e70624f1"
+    },
+    {
+      "start_time": 41,
+      "end_time": 41,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And just to portrait Thivai so not worry about that now it's all environmental."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "19f33ae5-674b-4e71-a4dc-43aba8a4214f"
+    },
+    {
+      "start_time": 45,
+      "end_time": 45,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "As long as I can remember, I've wanted to be a pirate. As long as I can remember, I've wanted to sail the navy seas. As long as I can remember wanting, I've wanted to slaughter other humans and to watch the emerging of their blood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "637ed650-82a0-4812-8a61-54b27109557d"
+    },
+    {
+      "start_time": 54,
+      "end_time": 54,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Throbbing sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "cb8b8061-cc9b-4e1f-ac3c-7f0be3b48a21"
+    },
+    {
+      "start_time": 61,
+      "end_time": 61,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Insofar as I know myself, I don't know either the origin or the cause of my wants."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "989a3ae4-2a28-49ae-bfce-89aaa41cd87e"
+    },
+    {
+      "start_time": 66,
+      "end_time": 66,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Knocking sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "7c4f3b32-6f9c-4588-a2a0-3346a9e63b91"
+    },
+    {
+      "start_time": 68,
+      "end_time": 68,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "It was a dark night for pirates."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "cbb4a65a-0e25-45fc-afda-cafc3ef0f3d1"
+    },
+    {
+      "start_time": 72,
+      "end_time": 72,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Winter had approached all of us on the ship. One night whose beginning was death, three pirates squatting on the deck just like fat cunts or pigs held a consultation which lingered, like death, without becoming anything else. For one human they had taken during their last battle remained bound and gagged near the bowsprit. Their discussion became more confused, then too confused, at least for the victim who could still hear; the pirates had become increasingly drunk. A fat slob waddled over to the victim who was a child and raped her again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "ae13a12c-5b00-4224-82b5-bd7f5965785a"
+    },
+    {
+      "start_time": 76,
+      "end_time": 76,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Nah NAH"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "9a122d24-68e3-415d-8cb3-92e5cb34948d"
+    },
+    {
+      "start_time": 80,
+      "end_time": 80,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Sound of a plastic cup or a ball bouncing on a table near the camera"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "8af4e8bb-fc11-4a1c-bfb5-8d0a6d97c269"
+    },
+    {
+      "start_time": 85,
+      "end_time": 85,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Metallic sound of an object bouncing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "4ab80eee-0b13-480b-8b25-175c21f7255d"
+    },
+    {
+      "start_time": 119,
+      "end_time": 119,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "She didn't struggle as the other two did the same."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "3311202f-9fde-4430-b83e-d80d1d89fd2c"
+    },
+    {
+      "start_time": 120,
+      "end_time": 120,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Cough"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "9f359c83-b893-4e83-8ecb-f8eb19790a80"
+    },
+    {
+      "start_time": 121,
+      "end_time": 121,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Afterwards, I'd like to do it to you,\" the first pirate turned to the second pirate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "9ead8a93-354c-4918-bba3-662c6498ad43"
+    },
+    {
+      "start_time": 126,
+      "end_time": 126,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Metallic sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "916c2be7-f0eb-4baf-aa23-f4d76d4ad97e"
+    },
+    {
+      "start_time": 127,
+      "end_time": 127,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"No. I'm younger than you, so it's possible for me to have a child. I don't want one. Just cause it's safe for you . . .\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b52e52e2-8b3a-48af-9b4b-e205be3e6fc9"
+    },
+    {
+      "start_time": 130,
+      "end_time": 130,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Soft knocking on a wooden table"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "e3ecc66e-098f-4d8c-8dfc-58c1ac41884d"
+    },
+    {
+      "start_time": 134,
+      "end_time": 134,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Not if I do it in your asshole. In your asshole, you're safe.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b0cf2bbf-4083-4885-8264-2219d0058698"
+    },
+    {
+      "start_time": 135,
+      "end_time": 135,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Short metallic sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "7bb8ac65-af3f-4332-a6bf-4ed61146610a"
+    },
+    {
+      "start_time": 137,
+      "end_time": 137,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laugh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "d16dde7a-09ec-4e3a-a0d5-6f337c0f798f"
+    },
+    {
+      "start_time": 138,
+      "end_time": 138,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Just stop what you're doing. Above all I don't wanna be pregnant!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a7a9e61a-c282-4f19-b1f2-51ce8eb8cb6b"
+    },
+    {
+      "start_time": 142,
+      "end_time": 142,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"You don't believe me. You don't trust . . .\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "8722ebe2-e5fd-4f06-b876-7d734fbcee30"
+    },
+    {
+      "start_time": 143,
+      "end_time": 143,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Intermittent laugh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "c09721bb-0450-4b27-8bd6-a8d83840c7e3"
+    },
+    {
+      "start_time": 144,
+      "end_time": 144,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"No.\" The second one explained: \"Why should I trust you? You just tell me why I should trust you? You tell me why I should trust you who can't get pregnant not to make me pregnant.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "2c3694bc-10fd-4b8e-8005-775fb66eb527"
+    },
+    {
+      "start_time": 156,
+      "end_time": 156,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The third pirate came in his pants. A round stain showed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "80c894a9-996c-4648-97ea-d1252e7d7a24"
+    },
+    {
+      "start_time": 159,
+      "end_time": 159,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Murmur and shuffling"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "4a8b8d0e-007b-4de8-9d1d-cbc863e3a15a"
+    },
+    {
+      "start_time": 161,
+      "end_time": 161,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Don't you believe I can fuck you and not make babies?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "265e602c-a963-4f8d-9450-17b7f847c409"
+    },
+    {
+      "start_time": 165,
+      "end_time": 165,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Used to protecting his virginity like a girl, the youngest of the pirates capitulated. \"If you let me alone I'll let you do it tonight. But you've gotta promise you won't tell anyone.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "0ab34481-be1f-4398-8d39-363b627c09dd"
+    },
+    {
+      "start_time": 177,
+      "end_time": 177,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Fatty replied \"I promise\" since he never meant anything by these words. \"But you're gonna spread yourself for me now. Otherwise I want that thin trigger that thin cock you're showing me so much, I'll cut off your head to get at it.\" Among themselves, also, pirates are very murderous. \"But after I come, when you're dead, then you can do whatever you want.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "da29445e-a401-4a94-afd0-1d9c98751644"
+    },
+    {
+      "start_time": 178,
+      "end_time": 178,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Hollow sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "1882c376-eafc-4f49-9587-5b1816d83723"
+    },
+    {
+      "start_time": 185,
+      "end_time": 185,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laugh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "0af8cc15-afb3-4159-a138-8a44bbfae409"
+    },
+    {
+      "start_time": 190,
+      "end_time": 190,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laugh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "3d4e990a-3a4d-448c-b51e-3f6305038f12"
+    },
+    {
+      "start_time": 197,
+      "end_time": 197,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laugh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "c9901795-75ba-4d36-8679-32ecca24be66"
+    },
+    {
+      "start_time": 202,
+      "end_time": 202,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Fatty dove in, ground and pounded his cock up into the so tight it was almost impenetrable asshole. He pound and ground until the brat started wiggling; then thrust hard. Thrust fast. Living backbone. Jewel at top of hole. The asshole opened involuntarily. The kid screeched like nerves. After a while the kid felt Fatty become still. After a few more minutes he asked Fatty if he had come."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "1481c62c-0be4-44f1-b519-6f24029f6354"
+    },
+    {
+      "start_time": 214,
+      "end_time": 214,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laugh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "1393201f-1146-41b3-9db0-798c5cd82744"
+    },
+    {
+      "start_time": 237,
+      "end_time": 237,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Shut up. Shut. Up.\" As it dropped out the final bit of sperm enflamed the top of his cockhole."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "08217d91-573d-45e6-977a-cf9cfcdb377a"
+    },
+    {
+      "start_time": 247,
+      "end_time": 247,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Barely mumbling \"Now it's time for me now it's time for what I want\", the pirate who had just been fucked bent over the child tightly bound in ropes, already raped. His hands reached for her breasts. While sperm which resembled mutilated oysters dropped out of his asshole, he touched the breasts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "8bd0c1cd-88e2-4d29-869c-ecdebfd892eb"
+    },
+    {
+      "start_time": 267,
+      "end_time": 267,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laugh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "90946b13-a2e6-4739-82e9-d1ff8629008f"
+    },
+    {
+      "start_time": 269,
+      "end_time": 269,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The three pirates turned away from the child. They went back to their work of gnawing and gorging themselves on Nestle's almonds, Cadbury chocolate flakes, barbecue tortilla chips, green benas, toffeed vanilla, Lucozade, and Mars bars. They guzzled down can after can of swill."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "8aed4c0f-01f7-4384-9971-ed298e4def28"
+    },
+    {
+      "start_time": 283,
+      "end_time": 283,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laughs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "bcb2acd0-8c37-4394-86e7-ad2823698c76"
+    },
+    {
+      "start_time": 289,
+      "end_time": 289,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The Captain, me, walked out on deck. \"What a group of pigs! Didn't all of your teachers in all the nice boarding schools you went to, which you never talk about, didn't they teach you about nutrition?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "0714a603-9d7d-42a3-9954-c4be67c20d3e"
+    },
+    {
+      "start_time": 289,
+      "end_time": 289,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Cough"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "7cc17cf4-2886-4e85-a1a1-8a40bf631582"
+    },
+    {
+      "start_time": 296,
+      "end_time": 296,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laughs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "ff985341-2e5d-4bb6-8551-1a0a4db62bbf"
+    },
+    {
+      "start_time": 303,
+      "end_time": 303,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Murmur"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "346dfc12-bcb5-44fd-b63a-daa821fa7e58"
+    },
+    {
+      "start_time": 308,
+      "end_time": 308,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"This ship isn't a public school,\" Fatty blurted out through showers of Coca-Cola mixed with beer. \"This shit is a pirate ship. And this is a philanthropic association.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "2ec6892e-66e3-4aa2-94d9-9822e95e534a"
+    },
+    {
+      "start_time": 308,
+      "end_time": 308,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laughs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "773e67c4-175c-45ed-9dd2-6954f170c708"
+    },
+    {
+      "start_time": 319,
+      "end_time": 319,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laughs, murmur"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "130bac9a-13c4-4b15-b29e-aa5421c39070"
+    },
+    {
+      "start_time": 320,
+      "end_time": 320,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Sure,\" Captain Thivai, me, sneered. \"I'm a sweet socialist government so I'm paying you to sit on your asses in the sun and get suntanned just that so that you are so happy you will not revolt against my economic fascism.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "0f1cba85-55fc-4a95-badb-e923f4640059"
+    },
+    {
+      "start_time": 339,
+      "end_time": 339,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Fatty dared to oppose me. \"No way. This ship is our philanthropic association, our place of safety, our baby crib. Since they have enough dough to be our charity donors, all the people outside it, all the people outside us here, are our enemies."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "c8f4d31c-f775-41aa-8990-7b9b84aff88a"
+    },
+    {
+      "start_time": 360,
+      "end_time": 360,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Since we live on this ship, we're orphans. Orphans are dumb and stupid.\" Fatty was epileptic. \"Since we're stupid, we don't know how to conduct ourselves in decent monied society, and we kill people for no reason.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "2b42e105-6adf-4369-ac48-63673b56e5eb"
+    },
+    {
+      "start_time": 367,
+      "end_time": 367,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laughs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "97b18657-c4d3-4cd0-887d-61d31aee6e09"
+    },
+    {
+      "start_time": 373,
+      "end_time": 373,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Historically, weren't some of the most violent political murderers,\" the punk added, \"aristocrats?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b78e4632-6dff-4b71-8794-f4029a2023ae"
+    },
+    {
+      "start_time": 380,
+      "end_time": 380,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Do all of you have parents?\" I asked my crew, for I was astounded. \"Do you generally come from good backgrounds?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "cf66ecc5-c516-4a9c-b204-0b9cb6f609ff"
+    },
+    {
+      "start_time": 390,
+      "end_time": 390,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"How can I answer a generality? So how can I answer any question?\" Fatty obviously came from a superior background."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "3a8c46bc-a47d-4c48-ae1a-67e255f6a897"
+    },
+    {
+      "start_time": 399,
+      "end_time": 399,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Do you,\" pointing my finger at the youngest therefore the weakest of the lot, \"do you, personally, have parents?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "0b77f025-24fb-490b-96ea-f6dc8f78d762"
+    },
+    {
+      "start_time": 408,
+      "end_time": 408,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"I don't have parents.\" \"Me neither.\" \"Him also?\" \"No one.\" \"None.\" \"No one has nothing anymore.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "9d279a90-ca20-4f34-b3f9-4c1010e91f5e"
+    },
+    {
+      "start_time": 419,
+      "end_time": 419,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Then who did you come out of and where'd you come from?\" I wasn't gonna be fooled by the scum."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "086fdbd3-f0d6-4c08-acaa-8383e03d4e6e"
+    },
+    {
+      "start_time": 423,
+      "end_time": 423,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Murmur"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "fad52ee1-ab40-42f6-ad54-766a1cf02238"
+    },
+    {
+      "start_time": 426,
+      "end_time": 426,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"That's our business. Each one of us.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "581ac92f-fc5d-44cc-b53d-bb9aa5d55c57"
+    },
+    {
+      "start_time": 428,
+      "end_time": 428,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The English pirate answered, \"We're not used to discussing our private affairs. It's not your business on whom we piss.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "018da80e-2778-4260-8236-2773aa9e5827"
+    },
+    {
+      "start_time": 435,
+      "end_time": 435,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I had to agree with the English, for it was necessary for me to trust my crew about whom I knew nothing except that they were not the scum of the earth, they were the scum of the now scum-filled seas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "57331551-c61f-4ed5-9079-2a75dbd23833"
+    },
+    {
+      "start_time": 448,
+      "end_time": 448,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And the next day, when the ship stopped near a shore in which a bordello was stretching out its claws, I jumped ship. A cock cried on the top of a hill. Rooster's red crest jumped through the weighted-down grasses. A guard and his heavy gun descended. I hid from him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "72307191-36d5-4164-9ddc-33ac9a613391"
+    },
+    {
+      "start_time": 471,
+      "end_time": 471,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Where there were buildings huge trees had showered dew onto the red roofs. My fear dried up my throat. My hands lay over my stomach for protection. The sun . . . Fear disintegrated my throat . . . Stunned . . ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "906a8385-401d-4954-aa3a-6c8732738d6b"
+    },
+    {
+      "start_time": 494,
+      "end_time": 494,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I woke. I was no longer free. Words woke me. \"It's me, Xaintrilles. This morning the General Staff will interrogate you. Good luck'n all that. I'm leaving for Ait Saada.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "ccbce083-597f-4d1a-a380-aafcfb9bf54c"
+    },
+    {
+      "start_time": 510,
+      "end_time": 510,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I didn't speak."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a581c711-f017-440b-bb9e-046a5d55cad5"
+    },
+    {
+      "start_time": 512,
+      "end_time": 512,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Xaintrilles squatted down on his haunches and looked at the bars. He saw a young man spread flat on the floor, still, his knees apart, a sackcloth jacket only over part of his stomach."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "2dfd211a-88b3-4bdd-b912-66bf70e65e20"
+    },
+    {
+      "start_time": 529,
+      "end_time": 529,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Thivai, aren't you listening to me? Maybe you can't hear anymore?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "cccbee0b-39fc-4c27-95ef-855b0c579867"
+    },
+    {
+      "start_time": 535,
+      "end_time": 535,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I recognized despair enough to open my senses only inside me. Lice gnawed my cropped head. Xaintrilles carried this body inside, chafed hands and knees."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "37431d8e-44ec-4ccd-8898-8ef39fc32666"
+    },
+    {
+      "start_time": 551,
+      "end_time": 551,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "In the deep river firemen and convoy soldiers washed themselves. Mud scintillated around the decaying bath-house."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b157dee9-94dd-46ca-a5e9-3d0f83e60757"
+    },
+    {
+      "start_time": 559,
+      "end_time": 559,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I lovingly rubbed my skull, the light wounds the hair chopper had made. \"Shave me. To the flesh,\" I said."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "152c643e-5e4e-4db8-99b3-8177df4ad16d"
+    },
+    {
+      "start_time": 569,
+      "end_time": 569,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The gentle hair-cutter, as soon as his officer had left, positioned the straight razor at the front of the forehead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "0e63f749-b015-41da-919c-eeee06d66793"
+    },
+    {
+      "start_time": 576,
+      "end_time": 576,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Thivai, I can't. There's not enough left.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "dd1bd91c-364a-413e-a38f-93ea170027c0"
+    },
+    {
+      "start_time": 580,
+      "end_time": 580,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Upon returning, the officer looked at the prisoner and ordered the barber to shave him totally."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "51f517c7-766f-4a8a-9b1c-cf3cd63f8a42"
+    },
+    {
+      "start_time": 586,
+      "end_time": 586,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Cough"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "606de892-2dc4-4a74-ad98-6a30b98fd41e"
+    },
+    {
+      "start_time": 587,
+      "end_time": 587,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I smiled, I lowered my head, the barber trembled, my flesh peeled off my head and the tip of my ear, the officer by his red leather boot crushed my shoeless foot; the cutter wiped his fingers on the linen knotted around my neck. Then he went back to his cutting. My hair dropped off like flies."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "ea2ca485-59a7-4b1a-a3e1-a785a7ab91e7"
+    },
+    {
+      "start_time": 612,
+      "end_time": 612,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "As they were cut, they brushed by the ears, the holes of the nostrils, caught in the eyebrows, mommy, I only went the hairdresser to cut off a lock of hair, my matchstick, mommy's sitting in the armchair, mommy's holding my knee, mommy's picking up a magazine, mommy puts it on her knees. Véronique’s behind the mirror."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "af4375d3-7ea6-4f39-9c42-62e8fd79add4"
+    },
+    {
+      "start_time": 636,
+      "end_time": 636,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Véronique stands upright. Then the hairdresser pushes her down while Véronique makes signs which the mirror reflects. The cut hairs brush past the beehive I've hidden in my shirt; mommy leaves, forgetting her purse. She walks through the rain along the river. Am I dreaming? The haircutter looks around him, he puts his hand on the hot flannel of my pants, his hand climbs up my thigh, I look at Véronique."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "d289321c-9c87-45be-b0a2-a2e5ad6553c2"
+    },
+    {
+      "start_time": 657,
+      "end_time": 657,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Soft shout"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "42e83e14-4874-4193-a1b8-ca37f8118fc2"
+    },
+    {
+      "start_time": 660,
+      "end_time": 660,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "It's she who's raping me it's she who's touching me, mommy's screaming out loud and crying in the rain. Dock workers drag barbed wire sheets through the slush. Mommy bites her soaked scarf. The haircutter's hand sinks between my knees; again I push it away; his other hand travels down my stomach; my knees hit the marble washbasin which nevertheless maintains its balance; the haircutter's hand rest openly on my obviously palpitating stomach. The hairdresser looks behind him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "dd281f4b-1091-4bad-aff5-2273a79e029e"
+    },
+    {
+      "start_time": 705,
+      "end_time": 705,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Under the door, mommy's drying her shoes. She enters the room. Night fell. Her wet hands hold my small ones, I fall into the armchair; mommy pays the hairdresser; he presses me against the door."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "db255e08-1745-4789-aae9-7cfe67a75b45"
+    },
+    {
+      "start_time": 705,
+      "end_time": 705,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Murmur"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "ef7b93d8-5925-451f-9ad5-21722c390fcd"
+    },
+    {
+      "start_time": 724,
+      "end_time": 724,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Mommy drags me out, down black streets until we reach the river. The dock workers\"re trying to warn themselves by standing as close as possible to a fire made out of charcoal dust. Mommy, holding me in her arms, jumps into the thicker mist. She mounts the jetty and runs over the rocks. Snow is covering the rocks. I try to writhe myself away, but she's pressing me into her hips."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "60245bcd-34d4-4dab-913b-37ce2370cb89"
+    },
+    {
+      "start_time": 742,
+      "end_time": 742,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Throbbing sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "05d89c67-d7f2-496f-b5b1-6b305b4a5616"
+    },
+    {
+      "start_time": 753,
+      "end_time": 753,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "So I bite her hand, while a tug-boat whose bright port dead-lights are throwing glimmers on a black oily sea, moves down the estuary; mommy throws herself, . . ., I bite her hand, as her arms let go, I fall down the rocks, rolling down the rocks, mommy falls into the sea my mother's suicide, the foam finds and recovers her, I twist my body round towards the rocks. There a wave carries my mother's head. Her palms slide along a sleek, slightly glittering rock. The tug-boat bears the other way, then stops; a sailor runs on to a bridge; he unfastens a yawl, runs back on board; they row to the jetty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "57181fb8-7fed-41a6-990b-e48cbdeb5e0c"
+    },
+    {
+      "start_time": 754,
+      "end_time": 754,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laugh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "f493c16a-0580-4bfd-922d-b7951bb63778"
+    },
+    {
+      "start_time": 767,
+      "end_time": 767,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Subtle knocking sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "4c53d39c-772a-4d26-bcbd-7517b0c07000"
+    },
+    {
+      "start_time": 774,
+      "end_time": 774,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laugh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "c4f743ca-50e9-49de-9fe9-54c381237fde"
+    },
+    {
+      "start_time": 800,
+      "end_time": 800,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Beneath the clouds the stars are shining. My head's bathing in a small abandoned puddle. The sailor jumps on to the jetty, lifts me in his strong arms, up, and strokes my forehead and left cheek. The other sailors shipped their oars and, lifting up my mother's body, bear it over a huge flat rock. The sailor puts me to bed. From the tip of the tent\"s main peg a lantern was barely balancing. My blood flowed into my hands. The sailors telephoned, held my hands in theirs, covered my face. They tore the khaki posters and bills open . . . "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "0f46e8bd-c7f6-4a53-b0e6-6ee32461b231"
+    },
+    {
+      "start_time": 824,
+      "end_time": 824,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Metallic sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "fd8edb8b-ed30-4c79-95ce-ce0921a98510"
+    },
+    {
+      "start_time": 848,
+      "end_time": 848,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "After the jeeps and lorries had left, wounded on the forehead now by the rising sun, I placed my sackcloth jacket over my face. The rest was naked. The flies in the toilet and the wine-press the soldiers had for their own convenience were gnawing at the barrier wires\" edges; they darted forward, leapt over the curly locks, so I trembled, opened my thighs. The morning breeze cooled down the thighs and the sexual mass. The flies stole . . . "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "158c5d82-d059-45c1-88e2-6f58612699ea"
+    },
+    {
+      "start_time": 848,
+      "end_time": 848,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Murmur"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "0b5c4aca-0b88-4147-a0ed-69fc44ca7d66"
+    },
+    {
+      "start_time": 851,
+      "end_time": 851,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Squeaking sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "25ab9f40-aa73-4021-8b79-47bd7ce4586a"
+    },
+    {
+      "start_time": 888,
+      "end_time": 888,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Again Véronique tosses her hairs behind her; I take hold of this hair and throw my face into it; Véronique turns around and places my head in her hands:"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "aa6cb4ad-617e-4f7b-9ecf-e6258d8639e6"
+    },
+    {
+      "start_time": 892,
+      "end_time": 892,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Cough"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "2343b549-1f71-4baa-9149-1ced0485f7d5"
+    },
+    {
+      "start_time": 903,
+      "end_time": 903,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Xaintrilles wet-kissed me in the garden.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "10328439-5890-4bd0-b158-5babfb824150"
+    },
+    {
+      "start_time": 907,
+      "end_time": 907,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I throw my arms around her waist, then I eat at her mouth; revolving her thighs rub and press themselves against my stomach; though she's pushing back my arms, I kiss her eyelids; her hand rubs my back, my waist; her eyelids taste of mud; the sweat wets my opened shirt."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b2982512-a258-4a29-a89d-e0a85798f862"
+    },
+    {
+      "start_time": 928,
+      "end_time": 928,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "As soon as she laughs, I turn her over under me on the armchair. The wind bangs the books on the table shut. My hand burrows like a mole in her clothes. Over a teat. Trembles. Under my hand the teat is hot. I stroke the other teat. With the second hand I unhook the dress. And tongue the teat\"s tip. \"And me,\" she pants. She crushes my mouth by her breast. Wide open the windows look over the park. Xaintrilles walks through the thick grass, his gun erect."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "0861cede-8be3-4f70-9f27-852081b68e9a"
+    },
+    {
+      "start_time": 964,
+      "end_time": 964,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "\"Don't be so hard,\" he tells me. \"You're breaking my legs.\" I crawl over him. Sirens stain the distance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "7b5bb987-6947-4c3f-86c0-7881b1698ebb"
+    },
+    {
+      "start_time": 976,
+      "end_time": 976,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Today there are no more pirates therefore I can't be a pirate. I know I can't be a pirate because there are no more pirate ships."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "62819e3a-2b6d-44a7-9e4d-d754cfd2c735"
+    },
+    {
+      "start_time": 986,
+      "end_time": 986,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "In 1574 there were pirate ships."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a622b894-1bcb-4c76-ac8f-d6cbea730de3"
+    },
+    {
+      "start_time": 989,
+      "end_time": 989,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "By that time the total halt of legal, or national, European wars forced the French and German soldiers either to disappear or to become illegal - pirates. Being free of both nationalistic and religious concerns and restrictions, privateering\"s only limitation was economic. Piracy was the most anarchic form of private enterprise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "cabe2385-4e01-4160-8d02-a96a8f36b141"
+    },
+    {
+      "start_time": 1015,
+      "end_time": 1015,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Thus, at that time, in one sense, the modern economic world began. In anarchic times, when anyone could become any one and any thing, corsairs, free enterprisers roamed everywhere more and more . . . "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "dab42048-61f5-4167-a511-e616bf0032cb"
+    },
+    {
+      "start_time": 1020,
+      "end_time": 1020,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Murmur"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "3a62f0a5-cf97-4079-b4f1-cdf518911df6"
+    },
+    {
+      "start_time": 1031,
+      "end_time": 1031,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Click"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "5348623e-1e1c-493f-bfaf-2ed09100a60a"
+    },
+    {
+      "start_time": 1031,
+      "end_time": 1031,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Sneeze"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "dd921315-04ec-4b8b-a8b6-0c966264ffda"
+    },
+    {
+      "start_time": 1032,
+      "end_time": 1032,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Murderers killed murderers . . . "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b22abd2c-9278-4df7-9d04-48589007a536"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Human beings are good by nature. This is the credo of those who are liberals, even pacifists, during times of national and nationalistic wars."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "1e2b08ef-2385-4dc5-8aba-ba4ac75767d1"
+    },
+    {
+      "start_time": 1046,
+      "end_time": 1046,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Cough"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "d0d0586c-eaec-43c9-a75a-fd5c394ced90"
+    },
+    {
+      "start_time": 1048,
+      "end_time": 1048,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "But in 1574, when regular, regulated war, that is, national war, which the nations involved had maintained at huge expense only via authoritarian expansion, ceased: the sailors the soldiers the poor people the disenfranchised the sexually different waged illegal wars on land and sea."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "8f46ff87-ffa6-4771-bb76-81c745a46d89"
+    },
+    {
+      "start_time": 1051,
+      "end_time": 1051,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Cough"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "e07b077d-125b-400e-9b72-621d2b739958"
+    },
+    {
+      "start_time": 1077,
+      "end_time": 1077,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "War, if not the begetter of all things, certainly the hope of all begetting and pleasures. For the rich and certainly for the poor. War, you mirror of our sexuality."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "44e9e10f-54b2-4302-bc83-ed6e62848506"
+    },
+    {
+      "start_time": 1092,
+      "end_time": 1092,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I who would have and would be a pirate: I cannot. I who live in my mind which is my imagination as everything - wanderer adventurer fighter Commander-in-Chief of the Allied Forces - I am nothing in these times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "e335cb8d-b991-415d-88ed-536dd4945b4a"
+    },
+    {
+      "start_time": 1102,
+      "end_time": 1102,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laugh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "6f6adb05-1e44-40ed-8fb5-eda8251abd85"
+    },
+    {
+      "start_time": 1116,
+      "end_time": 1116,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Thank you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Kathy Acker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "27583268-a868-408e-b735-a4dc834b9c8c"
+    },
+    {
+      "start_time": 1116,
+      "end_time": 1116,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Applause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "8ecbd670-313f-4ac4-9d26-e0ca9b0c9962"
+    }
+  ],
   "set": "Default",
   "event_id": "2adcb4d8-8522-42d3-9ec3-8cdff2872117",
   "source_id": "05200dad-486b-49ee-b953-71fa37a2b2f5"
