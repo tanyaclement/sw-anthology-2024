@@ -7,7 +7,7 @@
   "users": [],
   "project": {
     "github_org": "tanyaclement",
-    "title": "SpokenWeb Anthology",
+    "title": "SpokenWeb Anthology OLD",
     "description": "This is a draft of the SpokenWeb Anthology for Scholarly Editing. ",
     "language": "en",
     "slug": "sw-anthology-2024",
@@ -99,6 +99,6 @@
       ]
     },
     "created_at": "2024-10-03T00:27:25.583Z",
-    "updated_at": "2024-10-03T00:37:29.189Z"
+    "updated_at": "2024-10-03T00:48:17.942Z"
   }
 }
