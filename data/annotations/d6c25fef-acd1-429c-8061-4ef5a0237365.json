@@ -1,5 +1,2846 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 47,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Introduction"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Introducer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "ab3bb743-22ab-433b-9ee0-329a5b1cbf23"
+    },
+    {
+      "start_time": 3,
+      "end_time": 17,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "She has published ten volumes of poetry, which include such books as The Green Wave, The Turning Wind, Beast and View, U.S. 1, Theory of Flight, Body of Waking, Waterlily Fire, and The speed of darkness, amongst others."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Introducer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        }
+      ],
+      "uuid": "e4cf0a64-4ad2-4d86-bfdb-c5e1b4356236"
+    },
+    {
+      "start_time": 17,
+      "end_time": 37,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "She has published essays, a biography-- she's working on a biography now. She has published a novel called The Orgy. She has published translations of the Mexican Writer Octavio Paz, and the Swedish poet Gunnar Ekelof. She has published a number of children's books. And, what else can I say?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Introducer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        }
+      ],
+      "uuid": "5232dce7-ce15-4932-8912-13ace4425ed9"
+    },
+    {
+      "start_time": 38,
+      "end_time": 47,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "She is a New Yorker. She was born in New York, she lives in New York, and so forth. I now introduce Muriel Rukeyser."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Introducer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        }
+      ],
+      "uuid": "63267e6d-6fea-4cf7-b115-43871690bfcd"
+    },
+    {
+      "start_time": 47,
+      "end_time": 54,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Audience applauding"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "1c69f5ec-cd79-4865-b194-0477b0b64e9c"
+    },
+    {
+      "start_time": 56,
+      "end_time": 77,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Thank you. It sounds peculiar when it's said that way, you know. It just means that I've been writing poems all along, and that sometimes there's been some prose or something--film, prose, whatever it is--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "7850dff6-08fe-49c6-8e8a-baab634062a4"
+    },
+    {
+      "start_time": 81,
+      "end_time": 103,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And they lie all the time about the poems, to us, you know, about all of our poems. They say it's something very odd and rare, and people who do it are very odd. If a man does it, he's sexually questionable; if a woman does it, she's sexually questionable"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "4b37e25c-0564-47c6-9e0f-cb2382299137"
+    },
+    {
+      "start_time": 103,
+      "end_time": 103,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Audience laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "718d3f6d-6f18-470f-8673-4e6e481638c2"
+    },
+    {
+      "start_time": 105,
+      "end_time": 110,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Besides, very few people do it. And it's all lies, you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "23a6d1bd-bbd1-4256-b51e-c5f423d219a6"
+    },
+    {
+      "start_time": 112,
+      "end_time": 148,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "There's a company in the United States that's made a fortune on the premise that everybody takes a snapshot at some time or other. And I would like to ask you--and this is apart from all critical standards, all criteria, all faculty and institutions, apart from any of that--I would like to ask a question: how many of you here has ever written a poem, would you put up your hands please?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "88533a7d-1e66-43ed-8534-f48c6c605b50"
+    },
+    {
+      "start_time": 148,
+      "end_time": 148,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Audience laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "7995359d-a37b-4966-af6f-6cb431fb0135"
+    },
+    {
+      "start_time": 151,
+      "end_time": 151,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "5c9ec9f1-5dab-4a61-9132-b6268743eda5"
+    },
+    {
+      "start_time": 154,
+      "end_time": 199,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I'm always nervous before I ask the question. I ask the question, now, in all rooms, no matter how few or many people there are, and if the universities would generally look around to see if the basketball team is there, but there's always the moment of silence, and looking around first. And then, generally, quite slowly, almost all the hands go up. Maybe four or five do not put up their hands. And if I wait around afterwards, and with any luck and favorable wins, the four or five people come up to me and will say something like: I was fifteen, it was a love poem, it stank."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "c1cb9154-2233-48ee-a154-8f8307474486"
+    },
+    {
+      "start_time": 199,
+      "end_time": 203,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Audience laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "8ec1f773-f251-4738-bd9a-8aa084366b09"
+    },
+    {
+      "start_time": 203,
+      "end_time": 238,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The thing is, it's a human activity; we all do it. We lie about it, you know, and they lie about it to us. And, thanks now to the young, the poets, maybe, a few other people one could name together, maybe we don't lie so much-- so much as we used to. Maybe we don't lie about this anymore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "26417b5b-24f7-4b9b-9aad-239081fd2f79"
+    },
+    {
+      "start_time": 238,
+      "end_time": 238,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Maybe we don't lie about sex, maybe we don't lie about poetry. They seem to lie a great deal about politics instead. It seems to shift around."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "c1981301-8de8-448f-b6ad-674cdb175575"
+    },
+    {
+      "start_time": 245,
+      "end_time": 245,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Audience laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "79a052a2-366c-46c3-86cd-46cb57832adc"
+    },
+    {
+      "start_time": 247,
+      "end_time": 270,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "But, there are these, and the fact is: we all write poems. It is something we do. We come to this part of experience: You get a very, very rainy evening; why do poeple come and listen to poems? Or you've got some marvelous summer night; why do people come and listen to poems?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "56916530-429f-4cc5-aca3-470420234766"
+    },
+    {
+      "start_time": 270,
+      "end_time": 324,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "It's partly out of curiosity and looking at the person and I go to see: What is that breathing behind, what is that heartbeat, the breathing goes against the heartbeat and these rhythms are set up, and the involuntary muscles and you see the person do it but beyond that, something is what we called shared--something is arrived at--we come to something with almost unmediated that is the poem among us, between us, there, we're reaching each other, you're giving me whatever silence you are giving me and it comes to me with great strength, your silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "04defdbf-d40d-4ed0-9c26-296ae87fdaa5"
+    },
+    {
+      "start_time": 326,
+      "end_time": 326,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Somebody said \"primadona,\" you know, or I'm going give this to the audience and the conductor 'cause that's what you think--you're going to get it from the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "9312f6ee-2560-4b29-aecd-8a2a9445e464"
+    },
+    {
+      "start_time": 338,
+      "end_time": 338,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "That's where it comes from, in a funny way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "18b8c8ae-347b-49be-86a1-3f61fa8747a7"
+    },
+    {
+      "start_time": 347,
+      "end_time": 374,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "So, this mediation, it is not a description, it is not only the music and it, although certainly the reinforcement of sound-- the sound climbing up and finally reaching a place, the last word; the sound that begins with the first breathing, the breath of the title."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "926fe87f-a18e-4f86-878b-94e16cf76b98"
+    },
+    {
+      "start_time": 376,
+      "end_time": 410,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Keats' doing \"Ode to a Nightingale.\" We hardly ever say \"ode.\" Nobody says \"nightingale.\" But Keats, having said that, never has to say it again. It's a bird. You find it in these things. But, from the beginning--from the first moment--that is, the first breath, the thing that is made as, suggestion, breath, what my life has been, whatever that is- what your lives have been. This is a very short one called \"Song.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "bf8a2432-3ede-4b98-b66a-70521f175f15"
+    },
+    {
+      "start_time": 415,
+      "end_time": 454,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"Song\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "5919ab27-2fab-4bd1-a829-0c676878c0b9"
+    },
+    {
+      "start_time": 457,
+      "end_time": 457,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is another very short one. I wanted to start with these and see what happened. I call it \"In Our Time.\" It's very- it's four lines."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "1b9fd21f-4d9d-4546-a20c-94371bf2f225"
+    },
+    {
+      "start_time": 475,
+      "end_time": 475,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"In Our Time\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "cd3cb31b-febe-42b7-942c-46f4a9c3c110"
+    },
+    {
+      "start_time": 491,
+      "end_time": 491,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Audience chuckles"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "b58886e1-decb-44ca-8495-6b4b98ec7b4f"
+    },
+    {
+      "start_time": 495,
+      "end_time": 565,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is called \"The Poem As Mask.\" It's for another poem--a big Orpheus poem that I wrote a long time ago--and it had the acting out. The acting out the women on the mountain after the murder, the pieces of the man scattered about the top of the mountain, the slow coming together of the pieces as God. And I realized, long after, when I came to this newest book, \"Speed of Darkness\", that this was a mask--that I did not want any more of this. You know how it is. It happens to undergraduates. Say, it happens to the thing that was just before, and you see girls acting very childish, and trading on it, and thinking they're still thirteen and able to influence their father. And it's been used up, used up. It's served its purpose back there, but it isn't that anymore. And these, phases of being, \"The Poem As Mask,\" Orpheus."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "19836157-879e-491f-ba31-bda3a68b7a4d"
+    },
+    {
+      "start_time": 571,
+      "end_time": 571,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"The Poem as Mask\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "f8f2116c-50dc-42d2-b079-211806e5a946"
+    },
+    {
+      "start_time": 656,
+      "end_time": 656,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Audience cough"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "5bee10c8-cb5e-4438-b43a-be87b39c9a45"
+    },
+    {
+      "start_time": 658,
+      "end_time": 658,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Audiencecough"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "e03b1a36-2bf0-4002-b9e6-4c05cab1ebfd"
+    },
+    {
+      "start_time": 666,
+      "end_time": 666,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Air"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "d7f2ba9a-4b20-499a-a49a-5d728190aa6b"
+    },
+    {
+      "start_time": 672,
+      "end_time": 701,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"Air\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "37940a6f-b5e5-4f7c-a949-916dd1b408a3"
+    },
+    {
+      "start_time": 706,
+      "end_time": 706,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Poem"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "410a9069-81b7-4522-86c3-e4865bfc08e6"
+    },
+    {
+      "start_time": 711,
+      "end_time": 834,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"Poem\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "7b9e88b4-c216-422a-880d-4787bcd4898d"
+    },
+    {
+      "start_time": 843,
+      "end_time": 843,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Anemone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "347960c2-4175-4fcf-9ba6-b2b578ec2313"
+    },
+    {
+      "start_time": 848,
+      "end_time": 884,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"Anemone\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "e0e780ca-ad12-4f40-a569-9d3cec3f6fe8"
+    },
+    {
+      "start_time": 889,
+      "end_time": 889,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "For my son"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "5aff7f4d-351d-45e7-89ad-acf2c8609aaf"
+    },
+    {
+      "start_time": 895,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"For My Son\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "0f861718-4ea7-4df3-86cb-cf8eae0aef45"
+    },
+    {
+      "start_time": 1047,
+      "end_time": 1047,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is called \"Orgy\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a6a074fc-e3e7-470c-86f5-49e7e8fbb02c"
+    },
+    {
+      "start_time": 1055,
+      "end_time": 1152,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"Orgy\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "56fbb311-88f8-4fd2-97b2-2b05651c0097"
+    },
+    {
+      "start_time": 1157,
+      "end_time": 1185,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is called \"Bunk Johnson Blowing.\" If you know the early jazz men--the New Orleans Jazz men--you'll know Bunk Johnson and his trumpet. This is years later in San Francisco. \"Bunk Johnson Blowing\" and the dedication is in memory of Lead Belly, and his house on 59th Street. That's New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "abc2caac-46d9-459d-8eb4-e339344ee6c0"
+    },
+    {
+      "start_time": 1189,
+      "end_time": 1277,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"Bunk Johnson Blowing\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "af109bed-85d3-4b92-9501-b3ed59ac0219"
+    },
+    {
+      "start_time": 1280,
+      "end_time": 1280,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is one called \"Endless.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b299e2bf-579a-4912-a8ba-d8ff594a6cf9"
+    },
+    {
+      "start_time": 1290,
+      "end_time": 1373,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"Endless\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "420336d2-80a8-4e25-ac3c-bb73b39d36a1"
+    },
+    {
+      "start_time": 1381,
+      "end_time": 1436,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This last one of the first group is called \"Clues.\" It's a Canadian, a British Columbia poem. It-is- how it is among the Thompson River Indians, or how it was in the anthropological moment. Imagine that flash of moment before it was broken up by this civilization, and we have caught up to some of this, without know what the hell it was, what this is. We are full of body painting, tattooing, emblems painted on ourselves, this is further. \"Clues\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "cf537ef0-4085-4b55-8645-1bbe77c567e7"
+    },
+    {
+      "start_time": 1439,
+      "end_time": 93180,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"Clues\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "eff53635-afb4-4e49-8579-2224a6b432dd"
+    },
+    {
+      "start_time": 93480,
+      "end_time": 94680,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Here's one piece of a long poem. It's the last of a group called \"Elegies,\" which one hardly dares name anything anymore. It's called \"Elegy in Joy,\" and it's just a beginning piece. I wanted to do it tonight this way; I've never cut it up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "5a2e8020-5f1d-4605-88e5-54f962c81bcc"
+    },
+    {
+      "start_time": 95040,
+      "end_time": 102540,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"Elegies in Joy\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "300f6a8c-a8e3-48fa-b97d-d7d4ab451e84"
+    },
+    {
+      "start_time": 102600,
+      "end_time": 107760,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I thought of that very much at the beginning of this month in Mexico, and yesterday when I heard a story. It's a story of what happened at Christmas time. I was in Mexico--I wonder whether you saw it--I heard of it yesterday in New York as a little three line story in the back page of the New York Times, saying that the largest underground bomb-test was about to be held in Nevada--in the States--and to that test, the day before, came five scientist, in Utah--in the States--to protest, to picket, to try to stop it. And another person who protested, was Howard Hughes, who owns most of Las Vegas at this point, and had his own reasons for protesting. These protests did not stop the testing. The test was made. It was the largest underground made yet. Do you know this story? There was a crack, a crack in the earth, big enough, they said, the way we talk, big enough for the Empire State Building."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "298d0e21-2640-4260-a2b4-44f089b6ecf8"
+    },
+    {
+      "start_time": 106260,
+      "end_time": 106260,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Audience laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "e42729f0-7a8c-4018-aeb1-273d8a5dccab"
+    },
+    {
+      "start_time": 107760,
+      "end_time": 111120,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "There's a crack there, and deep under the crust there's a three foot crack of some kind, and the rocks are still falling, and they say there will be earthquakes in various parts, unpredictable parts of the world as a result of the shift of the under-crust. Now last night, before I came here, on TV, late news in New York, they said that there'd been a quake in the Fiji Islands. I have no idea what the relations between these things are,=. I give it to you simply; that something has happened to shift the under-crust, there will be unpredictable results. This is under the ground. The way we are bound to each other, we are all so bound to each other through the air, and the fall out has come over Canada. This is also a part of the story that I heard yesterday, and you, I can see by your nods, you know this part of the story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "65e8d743-d4b4-422c-8d9f-0b7648c81e43"
+    },
+    {
+      "start_time": 111120,
+      "end_time": 120720,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "People were saying one thing, and then the other, about why don't we do this, why don't they do that--part of the story is that maybe nothing will fall because the Russians also wish to make underground tests. It's part of the ways in which we are bound to each other. I'll give you that. In Mexico, we are bound under the ground, over the ground, in every way there is. In Mexico, though the stories of what really happened to the students in October, and the stories of people-- of many students --were killed and the police were among the crowd, and the police wore one white glove or tied a handkerchief around their right hand, and when the helicopters came over, these white hands were put up that said \"don't shoot us, we're police.\" Many students were shot, and they say in Mexico City that the bodies were incinerated, and no reports were made and no count was made. And these are the ways in which we are bound, too. And yes, I have been translating Octavio Paz, and Eikelof is another such poet, but Paz--the end of one of Octavio's poems--was printed on this issue of the University Student's Journal of the University of Mexico, with the account of September, October, November, December. And the poem ends like this in English. It's not as good, I warn you, these translations are a folly on a madness on a stupidity and at the same time one has to do it. As work to which one is driven, out of love and gratitude, and also out a motive not so noble as any of that. During the times in which one cannot write poems, it is wonderful to have something one cares about out in front of one, and work with it that way. And it's the thing, not spinning out of oneself in those times, but having something out in front. This is the end of the- of a great poem of Octavio Paz's called \"A Broken Jar.â And jar, of course--water jar--is something quite different in Mexico. We say 'jar,' 'jug,' something like that. It isn't in the thing we use every day, in Mexico, it's every day; it's that kind of broken jar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "838aebfd-f3bd-485b-a025-e061849ec86a"
+    },
+    {
+      "start_time": 120960,
+      "end_time": 124140,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"A Broken Jar\" (by Octavio Paz)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "764a2198-6523-4fbc-a630-7cdb1554bc89"
+    },
+    {
+      "start_time": 124620,
+      "end_time": 124620,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "These are some poems, since my last book, and I don't know whether they are finished. They may be finished. The next book that these will be in will be called Breaking Open. This is a short one called \"Martin Luther King.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "efffc677-db71-46e2-abfa-192ffd169206"
+    },
+    {
+      "start_time": 126060,
+      "end_time": 128640,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"Martin Luther King\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "5d9ae03b-6ade-446d-a2eb-7602515b3bb9"
+    },
+    {
+      "start_time": 128820,
+      "end_time": 134760,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is a poem I found a long time ago-- you probably have found it in the same way. It's on the back of a one of the Goga water colours. It's a piece of poem without any heading, without any signature. I didn't know what it was, and it stopped me, and it stayed in me, and I tried to turn it into English, and I couldn't do it. And I finally found out what it was and I finally turned it into English. It's a poem by Charles Maurice, who is hardly read--you know him? No. He's one of those people around Gauguin, and I said well, 'you can't print anything like that, people,' and then \"2001\" was written and released, and \"2001\" has stargate, starbaby, the whole thing, and I put the name \"Next\" on this and I'm reading it to you partly for itself, but partly because one line of it is something I used in a poem I wrote when the same thing happened to many of us. The Olympics committee wrote to us and asked for poems, you know, for the games, or for the times of the games, or for something. And one wasn't exactly going to do that, but there was something that could be said, and so on. Anyway, this is the Maurice, and I've called it \"Next\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "6618c1f4-d595-426f-bddf-61cd0c45f0e8"
+    },
+    {
+      "start_time": 135000,
+      "end_time": 138120,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"Next\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "f5972df4-c567-45a2-9620-a19a69961a61"
+    },
+    {
+      "start_time": 138060,
+      "end_time": 138060,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And this poem, using one line of that was what I said to Mexico. It's called \"Voices.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a4643c17-7a22-4672-b11e-ec1c44b3ea64"
+    },
+    {
+      "start_time": 138900,
+      "end_time": 2400,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"Voices\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "83d57e37-33eb-4571-9ca9-6cd7a21fa45e"
+    },
+    {
+      "start_time": 144060,
+      "end_time": 144060,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The last poem I'll read this evening is a group. The group is called \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "4e0c0e91-8a7c-40d8-a60e-0842c8627519"
+    },
+    {
+      "start_time": 144720,
+      "end_time": 144720,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They're short poems and I'll just pause between poems. There should be numbers doing up in back of me. One, two, three. I'll just pause. \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "e52b37e3-d70a-4d4e-afed-9ddb6fd0ac23"
+    },
+    {
+      "start_time": 145860,
+      "end_time": 166260,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Reads \"The Speed of Darkness\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Muriel Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "c063b4d3-c5a8-4f87-ae05-339f70030d5d"
+    },
+    {
+      "start_time": 146940,
+      "end_time": 147120,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Space 1"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Spaces"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situtated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "6a211684-f686-4ec1-af2b-4eceeddafee8"
+    },
+    {
+      "start_time": 148140,
+      "end_time": 148320,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Space 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Spaces"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situtated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "73cad809-2f48-4f35-8e2b-9515fc2981cc"
+    },
+    {
+      "start_time": 149700,
+      "end_time": 149940,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Space 3"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Spaces"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situtated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "3df4bdf2-1d59-4d25-98b8-8c29c8a81df1"
+    },
+    {
+      "start_time": 153180,
+      "end_time": 153300,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Space 4"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Spaces"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situtated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "67adc389-320e-4f3e-a46d-ac4cfde4871d"
+    },
+    {
+      "start_time": 154740,
+      "end_time": 154980,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Space 5"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Spaces"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situtated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "9f0405a1-5a5d-4adf-86ac-1f50b44aafcf"
+    },
+    {
+      "start_time": 155880,
+      "end_time": 156060,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Space 6"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Spaces"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situtated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "b082756a-1e43-413a-80d6-c86328a59f87"
+    },
+    {
+      "start_time": 157140,
+      "end_time": 157320,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Space 7"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Spaces"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situtated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "db49e9b1-711a-44e7-886c-e2f9a094e789"
+    },
+    {
+      "start_time": 157980,
+      "end_time": 158220,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Space 8"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Spaces"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situtated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "e664e4a5-1507-4371-9a26-e84f36e0e083"
+    },
+    {
+      "start_time": 158700,
+      "end_time": 158880,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Space 9"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Spaces"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situtated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "916c48e4-659d-4575-aaa5-c9e84d15bfd5"
+    },
+    {
+      "start_time": 160500,
+      "end_time": 160740,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Space 10"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Spaces"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situtated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "1f8e5681-3ba6-4a3a-aad4-acc42eb2a8ad"
+    },
+    {
+      "start_time": 161640,
+      "end_time": 161880,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Space 11"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Spaces"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situtated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "a92dfffc-41cd-49e8-8384-603612d6665b"
+    },
+    {
+      "start_time": 164340,
+      "end_time": 164520,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Space 12"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Spaces"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situtated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "a1cb4cf5-ad6a-41bf-8a1a-95e72d8508ab"
+    },
+    {
+      "start_time": 166080,
+      "end_time": 166200,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Space 13"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Spaces"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situtated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "72094c95-f839-4d52-800e-13ff54ac1f76"
+    },
+    {
+      "start_time": 166320,
+      "end_time": 167820,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Audience applaudes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "bd78785a-40e8-4f3e-adc0-4a3be94d2f6c"
+    },
+    {
+      "start_time": 167940,
+      "end_time": 168660,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "We wish to announce that the next reading will be by F.R. Scott, and that will be on February 14th--at the same time-- in the theater in the basement of this building. Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Introducer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        }
+      ],
+      "uuid": "672f71b6-80fa-4d7a-ba4d-38f2d09d5106"
+    },
+    {
+      "start_time": 168720,
+      "end_time": 185100,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Audience speaks quietly as recording continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "259f2fc1-19a6-47b6-9bb0-95cc4ad70e0c"
+    }
+  ],
   "set": "Default",
   "event_id": "3355e09f-89bb-4255-8164-226e90021f1a",
   "source_id": "10e65822-72e4-42f1-83da-d3ccbc4a3561"
